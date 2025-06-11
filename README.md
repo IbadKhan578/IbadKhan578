@@ -62,10 +62,9 @@ I'm a Software Engineering student with a strong focus on building responsive an
 graph TD;
   Code[💻 Code in VSCode] --> Git[🔧 Commit with Git];
   Git --> Push[☁️ Push to GitHub];
-  Push --> Deploy[🚀 Deploy on Vercel/Netlify];
-  Deploy --> Share[📢 Share with the world!];
+ 
 ```
-
+---
 
 ### 📚 My Dev Reading List
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
