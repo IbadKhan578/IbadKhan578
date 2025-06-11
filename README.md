@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ibad Khan</h1>
-<h3 align="center">A passionate Front-End Developer from Hyderabad, Sindh, Pakistan</h3>
+<h3 align="center">A passionate React-js Developer from Hyderabad, Sindh, Pakistan</h3>
 
 ---
 
@@ -26,6 +26,25 @@ I'm a Software Engineering student with a strong focus on building responsive an
 - 💱 **Currency Converter App** – A simple and sleek currency converter that supports 180+ countries using a public currency conversion API
 - ❌⭕ **Tic Tac Toe Game** – A fun and interactive two-player game built with React for practicing state management and conditional rendering
 
+---
+
+### 🚀 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+|- 💱 **Currency Converter App**|  A simple and sleek currency converter that supports 180+ countries using a public currency conversion API | `HTML`, `CSS`, `JavaScript`,`API` |
+|  ❌⭕ **Tic Tac Toe Game**  | A fun and interactive two-player game built with React for practicing state management and conditional rendering | `HTML`, `CSS`,`JAVASCRIPT` |
+
+---
+
+
+
+### 🧩 Fun Facts & Hobbies
+- 🎨 I love designing clean UIs before coding them  
+- 🎧 Music helps me debug faster  
+- ✍️ I occasionally write down thoughts about tech & learning  
+- 📚 I enjoy learning through documentation more than tutorials
+  
+
 
 ---
 
@@ -33,6 +52,46 @@ I'm a Software Engineering student with a strong focus on building responsive an
 - Node.js & Express.js (Backend fundamentals)
 - MongoDB (Database for full-stack development)
 - Building RESTful APIs
+
+---
+
+
+
+### ⚙️ My Workflow
+```mermaid
+graph TD;
+  Code[💻 Code in VSCode] --> Git[🔧 Commit with Git];
+  Git --> Push[☁️ Push to GitHub];
+  Push --> Deploy[🚀 Deploy on Vercel/Netlify];
+  Deploy --> Share[📢 Share with the world!];
+```
+
+
+### 📚 My Dev Reading List
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [The Road to React](https://www.roadtoreact.com/)
+- [You Don’t Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
+
+
+
+---
+
+
+
+### 💡 Visitors Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibadkhan-dev&style=flat-square&color=blue" alt="Profile views" />
+</p>
+---
+
+### 🕓 GitHub Contribution Calendar
+
+[![Ibad’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IbadKhan578&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+
 
 ---
 
