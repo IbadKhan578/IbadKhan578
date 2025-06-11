@@ -41,7 +41,7 @@ I'm a Software Engineering student with a strong focus on building responsive an
 ### 🧩 Fun Facts & Hobbies
 - 🎨 I love designing clean UIs before coding them  
 - 🎧 Music helps me debug faster  
-- ✍️ I occasionally write down thoughts about tech & learning  
+- ✍️ I occasionally write down thoughts on Medium   
 - 📚 I enjoy learning through documentation more than tutorials
   
 
