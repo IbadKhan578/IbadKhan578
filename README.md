@@ -22,17 +22,7 @@ I'm a Software Engineering student with a strong focus on building responsive an
 
 ---
 
-### 🚀 Projects I’m Proud Of
-- 💱 **Currency Converter App** – A simple and sleek currency converter that supports 180+ countries using a public currency conversion API
-- ❌⭕ **Tic Tac Toe Game** – A fun and interactive two-player game built with React for practicing state management and conditional rendering
 
----
-
-### 🚀 Featured Projects
-| Project | Description | Tech |
-|--------|-------------|------|
-|- 💱 **Currency Converter App**|  A simple and sleek currency converter that supports 180+ countries using a public currency conversion API | `HTML`, `CSS`, `JavaScript`,`API` |
-|  ❌⭕ **Tic Tac Toe Game**  | A fun and interactive two-player game built with React for practicing state management and conditional rendering | `HTML`, `CSS`,`JAVASCRIPT` |
 
 ---
 
